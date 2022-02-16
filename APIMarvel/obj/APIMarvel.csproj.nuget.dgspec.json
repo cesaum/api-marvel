@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\APIMarvel.csproj": {}
+    "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\APIMarvel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\APIMarvel.csproj": {
+    "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\APIMarvel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\APIMarvel.csproj",
+        "projectUniqueName": "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\APIMarvel.csproj",
         "projectName": "APIMarvel",
-        "projectPath": "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\APIMarvel.csproj",
+        "projectPath": "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\APIMarvel.csproj",
         "packagesPath": "C:\\Users\\cglfilho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\obj\\",
+        "outputPath": "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

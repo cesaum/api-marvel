@@ -44,13 +44,13 @@ namespace APIMarvel.MarvelApi
 
         public async Task<CharacterDataWrapper> GetCharacters()
         {
-            //we need a timestamp
+            
             string timestamp = (DateTime.Now.ToUniversalTime() - new DateTime(1970, 1, 1)).TotalSeconds.ToString();
-            //we need use a hash to call the marvel api
+            
             string s = String.Format("{0}{1}{2}", timestamp, _privateKey, _publicKey);
 
             string hash = CreateHash(s);
-            //format the url string  with search critieria          
+                 
             string requestURL = String.Format(BASE_URL + "/characters?ts={0}&apikey={1}&hash={2}", timestamp, _publicKey, hash);
 
             var url = new Uri(requestURL);
@@ -66,11 +66,11 @@ namespace APIMarvel.MarvelApi
             CharacterDataWrapper cdw = JsonConvert.DeserializeObject<CharacterDataWrapper>(json);
 
             StreamWriter sw = new StreamWriter("../personagensmarvel.txt");
-            //Write a line of text
+            
             sw.WriteLine(JsonConvert.SerializeObject(cdw.Data.Results));
-            //Write a second line of text
+      
             sw.WriteLine("From the StreamWriter class");
-            //Close the file
+         
             sw.Close();
 
             return cdw;

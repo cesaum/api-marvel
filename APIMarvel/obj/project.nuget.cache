@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkWbhLLl09c0DhpBlY07qcjaljH/xxc8gEK8A37KQQ/Y9eIaK2QyPENqdYTm414LoFBqpHX71PMitq7zUMkwRg==",
+  "dgSpecHash": "x8aDHtr8T6KcXSZNL178MAqBgJsyLzxpOX1HZgsU7W+vBr6hn4O2KfRboVtlc7owNve3kBXA7cupaGbgicPXmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cglfilho\\source\\repos\\APIMarvel\\APIMarvel\\APIMarvel.csproj",
+  "projectFilePath": "C:\\Users\\cglfilho\\Desktop\\Experimento\\APIMarvel\\APIMarvel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cglfilho\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\cglfilho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",

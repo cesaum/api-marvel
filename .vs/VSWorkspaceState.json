@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIMarvel",
+    "\\APIMarvel\\bin",
+    "\\APIMarvel\\Controllers",
+    "\\APIMarvel\\MarvelApi"
+  ],
+  "SelectedNode": "\\APIMarvel\\Controllers\\MarvelController.cs",
+  "PreviewInSolutionExplorer": false
+}
